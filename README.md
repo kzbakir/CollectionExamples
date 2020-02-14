@@ -1,1 +1,1 @@
-# CollectionExamples
+# Collection Examples
